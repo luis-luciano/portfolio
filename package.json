@@ -1,0 +1,19 @@
+{
+	"name": "personal-page",
+	"version": "1.0.0",
+	"description": "Personal page",
+	"scripts": {
+		"build": "vuepress build docs",
+		"dev": "vuepress dev docs"
+	},
+	"keywords": [
+		"vue",
+		"vuepress",
+		"portfolio"
+	],
+	"author": "luis luciano",
+	"license": "MIT",
+	"devDependencies": {
+		"vuepress": "^1.8.2"
+	}
+}
